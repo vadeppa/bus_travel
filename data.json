@@ -1,0 +1,53 @@
+request.data
+{'cusdetails': [
+    [
+        {
+            'name': 'Aman',
+            'age': '23', 'gender': 'Male', 
+            'seatno': 'U15', 
+            'bus_name': 'Orange Tours and Travels', 
+            'price': 2000, 
+            'source': 'Hyderabad', 
+            'destination': 'Banglore'
+            }
+            ],
+    [
+        {
+            'name': 'Aha', 
+            'age': '23', 
+            'gender': 'Female', 
+            'seatno': 'U14', 
+            'bus_name': 'Orange Tours and Travels', 
+            'price': 2000, 
+            'source': 'Hyderabad', 
+            'destination': 'Banglore'
+        }
+        ]
+        ], 
+'mobile': '909168481', 
+'no_tkts': 2
+}
+list Data:
+[
+    {
+        'name': 'Aman', 
+        'age': '23', 
+        'gender': 'Male', 
+        'seatno': 'U15', 
+        'bus_name': 'Orange Tours and Travels', 
+        'price': 2000, 'source': 'Hyderabad', 
+        'destination': 'Banglore', 
+        'mobile_number': '909168481', 
+        'no_tkt': 1
+        }, 
+    {
+        'name': 'Aha', 
+        'age': '23',
+        'gender': 'Female', 
+        'seatno': 'U14', 
+        'bus_name': 'Orange Tours and Travels', 
+        'price': 2000, 
+        'source': 'Hyderabad', 
+        'destination': 'Banglore', 
+        'mobile_number': '909168481', '
+        no_tkt': 1}]
